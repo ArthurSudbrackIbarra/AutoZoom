@@ -71,6 +71,8 @@ public class Acesso {
         } catch (IOException ex) {
             Logger.getLogger(Acesso.class.getName()).log(Level.SEVERE, null, ex);
         }
+
+        br.close();
         
         nomeCad1 = info[0];
         nomeCad2 = info[1];
