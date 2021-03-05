@@ -6,5 +6,5 @@ você perderá as informações que havia digitado anteriormente.
 
 Please, after you extract the application zip, DO NOT DELETE dados-autozoom.txt
 file, since all of your classes names and zoom links are saved there.
-In case you dele that file, it will be created again when you run Autozoom,
+In case you delete that file, it will be created again when you run Autozoom,
 however, you are going to lose all the information that you had previously typed.
